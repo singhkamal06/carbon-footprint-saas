@@ -1,1 +1,1 @@
-# carbon-footprint-saas
+# carbon-footprint-ai
